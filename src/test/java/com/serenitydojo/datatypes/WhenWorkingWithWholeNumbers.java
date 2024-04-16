@@ -17,5 +17,3 @@ public class WhenWorkingWithWholeNumbers {
         assertThat(targetYear, equalTo(2015));
     }
 }
-
-

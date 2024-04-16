@@ -7,4 +7,3 @@ public class HelloWorldWritetTest {
         System.out.println("Hello world!");
     }
 }
-
