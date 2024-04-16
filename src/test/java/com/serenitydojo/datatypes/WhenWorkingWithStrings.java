@@ -58,3 +58,4 @@ public class WhenWorkingWithStrings {
         assertThat(updatedTitle, equalTo("The Dog In The Hat"));
     }
 }
+
