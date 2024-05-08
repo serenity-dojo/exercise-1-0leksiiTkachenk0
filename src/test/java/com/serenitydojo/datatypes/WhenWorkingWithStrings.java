@@ -12,7 +12,7 @@ public class WhenWorkingWithStrings {
         String bookTitle = "The Cat In The Hat";
 
         String lowerCaseTitle = "";
-        // TODO: Convert the book title to lower case and assign it to the lowerCaseTitle variable
+        // TODO: Convert the book title to lower case, and assign it to the lowerCaseTitle variable
 
         assertThat(lowerCaseTitle, equalTo("the cat in the hat"));
 
