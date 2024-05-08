@@ -16,7 +16,7 @@ public class WhenWorkingWithFloatingPointNumbers {
         double celcius = 27.0d;
         double farenheit = 0.0d;
 
-        // TODO: Use a floating point calculation to calculate the farenheit equivalent of the celcius value.
+        // TODO:  Use a floating point calculation to calculate the farenheit equivalent of the celcius value.
 
         assertThat(farenheit, equalTo(80.6));
     }
